@@ -1,2 +1,2 @@
-# consumer-Goods-ad-hock-insight
+# consumer-Goods-ad-hoc-insight
 SQL-based analysis of consumer goods data to generate business insights using Excel and Power BI dashboards.
